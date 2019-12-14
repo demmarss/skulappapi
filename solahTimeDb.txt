@@ -1,0 +1,11 @@
+
+{"1574616252790":{"Fajir":"2","Zuhur":"2","Asir":"2","Magrib":"2","Ishai":"2"}}
+{"1574616252796":{"Fajir":"2","Zuhur":"2","Asir":"2","Magrib":"2","Ishai":"2"}}
+{"1574616253021":{"Fajir":"2","Zuhur":"2","Asir":"2","Magrib":"2","Ishai":"2"}}
+{"1574616253024":{"Fajir":"2","Zuhur":"2","Asir":"2","Magrib":"2","Ishai":"2"}}
+{"1574616253297":{"Fajir":"2","Zuhur":"2","Asir":"2","Magrib":"2","Ishai":"2"}}
+{"1574616253299":{"Fajir":"2","Zuhur":"2","Asir":"2","Magrib":"2","Ishai":"2"}}
+{"1574616253571":{"Fajir":"2","Zuhur":"2","Asir":"2","Magrib":"2","Ishai":"2"}}
+{"1574616253575":{"Fajir":"2","Zuhur":"2","Asir":"2","Magrib":"2","Ishai":"2"}}
+{"1574616253897":{"Fajir":"2","Zuhur":"2","Asir":"2","Magrib":"2","Ishai":"2"}}
+{"1574617297184":{"Fajir":"2","Zuhur":"2","Asir":"2","Magrib":"2","Ishai":"2"}}
