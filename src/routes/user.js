@@ -4,7 +4,6 @@ const User = require('../models/user')
 
 // get all the users
 router.get('/', async (req, res) => {
-    console.log("Trying to get users")
     const users = await User.find()
        res.send(users)
   });

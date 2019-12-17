@@ -16,6 +16,7 @@ const paymentSchema = new mongoose.Schema({
   },
   amount: {
     type: String,
+    required: true,
   },
   yearPaidFor:{
       type:String
