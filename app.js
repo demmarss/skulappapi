@@ -6,9 +6,15 @@ const mongoose = require('mongoose');
 const users = require('./src/routes/user');
 const times = require('./src/routes/timeRecord')
 const payments = require('./src/routes/payment')
+const expenses = require('./src/routes/expenses')
+
 const app = express();
 const port = 4001;
 var cors = require('cors');
+
+
+app.use(express.static('public'))
+
 
 // app.use(express.urlencoded())
 
@@ -28,11 +34,19 @@ app.get('/', (req, res) => {
     res.send("I am working")
 })
 
+app.post('/', (req, res) => {
+  res.send("I am working too")
+})
+
+
+app.use('/expenses', expenses);
+
 app.use('/users', users);
 
 app.use('/times', times);
 
 app.use('/payments', payments);
+
 
 // our server instance
 const server = http.createServer(app)
